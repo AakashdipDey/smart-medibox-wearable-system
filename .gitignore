@@ -1,0 +1,13 @@
+﻿# Altium Designer Backup & Temporary Files
+History/
+*.Zip
+*.zip
+*.DDP
+*.PcbDocPreview
+*.SchDocPreview
+*.apr_lib
+*.~*
+Project Outputs for Free Documents/
+*.htm
+*.html
+*.log
