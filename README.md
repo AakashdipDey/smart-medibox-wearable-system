@@ -1,4 +1,4 @@
-﻿# Smart Medication Dispensing & Biometric Telemetry System
+﻿# Smart Medication Dispensing & Telemetry System
 ### Integrated IoT Healthcare Ecosystem: MediBox Base-Station & Wearable Companion
 
 [![Altium Designer](https://img.shields.io/badge/EDA-Altium%20Designer-brightgreen?style=for-the-badge&logo=altiumdesigner)](https://www.altium.com/)
